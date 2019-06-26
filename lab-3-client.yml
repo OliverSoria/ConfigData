@@ -1,5 +1,5 @@
 lucky-word : defaultXD
 ---
-world:
+word:
   preamble: The lucky word is
   luckyWord: Irish
