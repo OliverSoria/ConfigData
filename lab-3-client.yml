@@ -1,5 +1,5 @@
 lucky-word : default
 ---
-worldConfig:
+world:
   preamble: The lucky word is
   luckyWord: Irish
