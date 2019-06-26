@@ -1,4 +1,4 @@
-lucky-word : defaultXD
+lucky-word : default
 ---
 word-config:
   preamble: The lucky word is
