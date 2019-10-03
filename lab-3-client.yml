@@ -4,4 +4,4 @@ word-config :
 ---
 word-config:
   preamble: The lucky word is
-  luckyWord: android
+  # luckyWord: android
