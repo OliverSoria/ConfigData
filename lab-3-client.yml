@@ -1,4 +1,6 @@
 lucky-word : default
+word-config :
+  luckyWord : iphone
 ---
 word-config:
   preamble: The lucky word is
